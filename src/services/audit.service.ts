@@ -17,3 +17,4 @@ export const auditService = {
     return (data || []) as AuditLog[];
   },
 };
+

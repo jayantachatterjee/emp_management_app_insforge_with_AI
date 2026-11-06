@@ -290,3 +290,4 @@ export const EmployeeDashboard: React.FC = () => {
     </div>
   );
 };
+

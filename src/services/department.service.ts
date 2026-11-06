@@ -16,3 +16,4 @@ export const departmentService = {
     return (data || []) as Department[];
   },
 };
+

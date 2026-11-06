@@ -343,3 +343,4 @@ export const EmployeeFormModal: React.FC<EmployeeFormModalProps> = ({
     </Modal>
   );
 };
+

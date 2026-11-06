@@ -108,3 +108,4 @@ export const EmployeeCard: React.FC<EmployeeCardProps> = ({
     </div>
   );
 };
+

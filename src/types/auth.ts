@@ -22,3 +22,4 @@ export interface AuthContextType {
   signOut: () => Promise<void>;
   refreshProfile: () => Promise<void>;
 }
+

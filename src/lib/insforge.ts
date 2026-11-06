@@ -11,3 +11,4 @@ export const insforge = createClient({
   baseUrl: baseUrl || 'https://nyst562j.us-east.insforge.app',
   anonKey: anonKey || '',
 });
+

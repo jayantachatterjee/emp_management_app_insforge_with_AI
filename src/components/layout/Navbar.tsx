@@ -115,3 +115,4 @@ export const Navbar: React.FC<{ onToggleSidebar?: () => void }> = ({ onToggleSid
     </header>
   );
 };
+

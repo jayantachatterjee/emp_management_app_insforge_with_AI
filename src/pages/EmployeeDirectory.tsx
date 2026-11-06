@@ -275,3 +275,4 @@ export const EmployeeDirectory: React.FC = () => {
     </div>
   );
 };
+
